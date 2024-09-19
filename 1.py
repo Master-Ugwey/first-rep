@@ -1,2 +1,6 @@
 print(10)
 print(5)
+a = int(input())
+print(a)
+b = int(input())
+print(a + b)
